@@ -71,3 +71,13 @@ Solder Iron
 7. Skills Used
 
 Throughout the project, we utilized various skills we learned over the past year in both online and offline skill-building sessions. For our assistive guitar learning glove, we employed circuit-making skills from our Electronics and Robotics classes to create the first prototype using the ESP8266. We connected various devices and used coding skills to modify libraries for the sensors to achieve the desired output. Our IoT skills were crucial as we connected the glove using Adafruit.IO and Arduino, enabling the ESP8266 to connect to another one. Additionally,  we used our soldering techniques to connect the wires. When designing the aesthetically pleasing outer casing for the sensor, our CAD lessons were invaluable; we created a 3D model before laser cutting to ensure precision. In summary, all the skill-building courses we participated in were essential to successfully creating our final prototype, a feat we couldn't have imagined achieving before.
+
+8. Challenges Faced and Solutions
+
+Challenges were abundant as we made our project. Firstly, when we arrived at residency we decided on using an IR sensor but the values we got were inaccurate so we changed to an ultrasonic sensor, which produced better results.
+
+Secondly, Adafruit was a software that was relatively new for us so we learned from our mentors and used the internet to learn how to effectively use Adafruit.
+
+Lastly, at the end the LEds were not lighting up, we took a long time to detect the problem, but after making use of the multimeter we saw our problem and had to resolder some wires.
+
+
