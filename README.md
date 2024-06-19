@@ -13,10 +13,10 @@ Our project aligns with SDG 4 (Quality Education) by making music education more
 
 4. Constraints
 
-1. The glove has to be attachable to any guitar, so portability is an important factor
-2. The case had to be sturdy since movements in the ultrasonic sensor could give incorrect readings
-3. It needed to be aesthetically pleasing, as users would not want to attach an unattractive product to their guitar or wear an unattractive glove.
-4. We needed to find an easy way to attach the sensor to the guitar
+ The glove has to be attachable to any guitar, so portability is an important factor
+ The case had to be sturdy since movements in the ultrasonic sensor could give incorrect readings
+ It needed to be aesthetically pleasing, as users would not want to attach an unattractive product to their guitar or wear an unattractive glove.
+ We needed to find an easy way to attach the sensor to the guitar
 
 5. Solutions Brainstorming
 
