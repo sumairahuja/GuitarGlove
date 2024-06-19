@@ -38,17 +38,36 @@ Code
 All code used has been uploaded under Source files.
 
 Materials, Machines, and tools used
-1. Black glove
-2. 4 LED strips
-3. 2 ESP8266s
-4. 9V battery
-5. Ultrasonic Sensor
-6. Guitar(for testing)
-7. Breadboard(for testing)
-8. Resistor(for testing)
-9. Jumper wires
-10. Solder
-11. Wire Cutters
-12. Scissors
-13. Laser Cutting Machine
-14. Solder Iron
+
+Black glove
+
+4 LED strips
+
+2 ESP8266s
+
+9V battery
+
+Ultrasonic Sensor
+
+Guitar(for testing)
+
+Breadboard(for testing)
+
+Resistor(for testing)
+
+Jumper wires
+
+Solder
+
+Wire Cutters
+
+Scissors
+
+Laser Cutting Machine
+
+Solder Iron
+
+
+7. Skills Used
+
+Throughout the project, we utilized various skills we learned over the past year in both online and offline skill-building sessions. For our assistive guitar learning glove, we employed circuit-making skills from our Electronics and Robotics classes to create the first prototype using the ESP8266. We connected various devices and used coding skills to modify libraries for the sensors to achieve the desired output. Our IoT skills were crucial as we connected the glove using Adafruit.IO and Arduino, enabling the ESP8266 to connect to another one. Additionally,  we used our soldering techniques to connect the wires. When designing the aesthetically pleasing outer casing for the sensor, our CAD lessons were invaluable; we created a 3D model before laser cutting to ensure precision. In summary, all the skill-building courses we participated in were essential to successfully creating our final prototype, a feat we couldn't have imagined achieving before.
